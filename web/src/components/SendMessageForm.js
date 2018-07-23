@@ -1,3 +1,3 @@
 import React from "react"
 
-export default SendMessa
+export default SendMessageForm
