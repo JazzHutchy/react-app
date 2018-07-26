@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div id="container">
         <aside id="sidebar">
-          Users
+          User
           <div id="logo-box">
             <img src={logo} id="App-logo" alt="logo" />
           </div>
